@@ -1,15 +1,11 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+date: '2021-05-10'
+title: 'IoT Intern'
+company: 'Makerdemy'
+range: 'Jan - May 2021'
+url: ''
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
-
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
-
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
-
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Developed an end-to-end Home Automation system primarily for home security and thermostat functions using openHAB 3.0 and MQTT at Makerdemy, an EdTech start-up for the Internet-of-Things (IoT)
+- Implemented various IoT projects with the ESP32 and Raspberry Pi 4 development boards
+- Co-authored a course titled Introduction to openHAB 3.0 intended to teach enthusiasts to design home automation solutions from scratch, and published it on Udemy and Teachable

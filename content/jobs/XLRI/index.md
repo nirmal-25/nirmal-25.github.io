@@ -1,12 +1,13 @@
 ---
-date: '2018-05-10'
-title: 'Research Intern'
-company: 'XLRI'
-range: 'May - June 2018'
-url: 'https://www.xlri.ac.in/'
+date: '2022-07-15'
+title: 'Machine Learning Intern'
+company: 'AreaProbe'
+range: 'May - August 2022'
+url: ''
 ---
 
-- Meta analysis and a literature review on the topics 'Knowledge Hiding', 'Ethical Leadership', 'Ethical Culture', 'Ethical Climate' and 'Unethical Behaviour'.
-- Maintained the data in MS Excel and represented the trend via R programming.
-- Work done under Prof. Jatinder Kr. Jha of HR department of XLRI.
-- View [CERTIFICATE](https://drive.google.com/file/d/1RlOPvA1EmE24aQMWeSiXbB3N36CUizXA/view?usp=sharing)
+- Developed Catalyst - an object detection model for pedestrians and vehicles based on YOLOv5 in PyTorch
+- Deployed the model for 35 RTSP camera feeds installed in parking lots and housing communities of the Anacostia neighborhood in Washington, DC
+- Implemented an audio detection pipeline based on YAMNet (MobileNet architecture) and created a trigger mechanism to detect gunshots in real-time
+- Facilitated the storage of object counts along with color recognition for vehicles and integrated with gunshot detection and deployed the model on AWS EC2 instances using Amazon SageMaker
+
