@@ -109,18 +109,7 @@ const Footer = () => {
             Built with Gatsby | Thanks to Brittany Chiang
           </div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
