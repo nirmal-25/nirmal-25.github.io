@@ -123,19 +123,18 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Nirmal Amirthalingam</title>
+        <title>Nirmal | DS | ML | CV</title>
         <link rel="canonical" href="https://nirmal-25.github.io/pensieve" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">Pensieve</h1>
+          <h1 className="big-title">Publications</h1>
           <p className="subtitle">
             <a
-              href="https://www.wizardingworld.com/writing-by-jk-rowling/pensieve"
+              href=""
               target="_blank"
               rel="noopener noreferrer">
-              a collection of memories
             </a>
           </p>
         </header>

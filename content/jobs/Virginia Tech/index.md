@@ -3,7 +3,7 @@ date: '2021-07-30'
 title: 'Graduate Teaching Assistant'
 company: 'Virginia Tech'
 range: 'August 2021 - Present'
-url: ''
+url: 'https://ece.vt.edu/'
 ---
 
 - Assisted a class of 70 students with Python/MATLAB programming assignments on image enhancement, compression, segmentation algorithms, and graded course projects for Digital Image Processing (Fall 2021)

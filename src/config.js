@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Nirmal | Machine Learning | Data Science',
+  siteTitle: 'Nirmal | DS | ML | CV | SW',
   siteDescription:
-    'dummy',
+    'Portfolio - Nirmal Amirthalingam',
   siteKeywords:
     'dummy',
   siteUrl: 'https://nirmal-25.github.io/',
@@ -40,7 +40,7 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
-    },
+    }
   ],
 
   navHeight: 100,

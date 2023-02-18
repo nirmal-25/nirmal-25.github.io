@@ -3,13 +3,19 @@ title: 'About Me'
 avatar: 'profile_pic.jpg'
 skills:
   - Python
-  - C/C++
   - SQL
+  - C/C++
+  - MATLAB
   - PyTorch
   - TensorFlow
   - Tableau
+  - OpenCV
+  - AWS
+  - Docker
   - JavaScript
   - HTML/CSS
+  - Flask
+  - Git
 ---
 
 <!-- Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
@@ -22,13 +28,11 @@ I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/fi
 
 Here is a list of the technologies that I'm familiar with! -->
 
-Welcome to my portfolio! I have a primary background and strong academic experience in computer vision, machine learning, and data science.
+Welcome to my portfolio! I have a primary background and strong academic experience in computer vision, machine learning and data science.
 
-I wish to further develop my skills by working closely on industry-focussed projects, and becoming part of a team that helps build meaningful systems with data that benefit society when looking at the bigger picture. 
-
-Keep scrolling to learn more about me!
+I wish to further develop my skills by working closely on industry-focussed projects, and becoming part of a team that helps build meaningful systems with data that benefit society when looking at the bigger picture. Keep scrolling to learn more about me!
 
 <!-- and the one thing where even state-of-the-art models fail essentially boils down to is data. Without clean data, there is simply no learning, and I'm trying to focus more on data pre-processing techniques on one hand while also working closely with ML/DL algorithms as part of my research at Virginia Tech.  -->
 
 
-Here is a list of the technologies that I'm familiar with:
+Here are some of my technical skills:

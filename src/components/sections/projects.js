@@ -22,6 +22,11 @@ const StyledTitle = styled.h4`
     display: block;
   }
 `;
+const StyledTitleSmall = styled.h5`
+  margin: 0 auto;
+  font-size: ${fontSizes.h1};
+  ${media.tablet`font-size: 10px;`};
+`;
 const StyledArchiveLink = styled(Link)`
   ${mixins.inlineLink};
   text-align: center;
@@ -148,7 +153,10 @@ const Projects = ({ data }) => {
     <StyledContainer>
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
+        View Complete List of Projects
+      </StyledArchiveLink> <br></br>
+      <StyledArchiveLink to="/pensieve" ref={revealArchiveLink}>
+        View Publications
       </StyledArchiveLink>
 
       <StyledGrid>

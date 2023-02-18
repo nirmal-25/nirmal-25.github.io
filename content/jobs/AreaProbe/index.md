@@ -3,7 +3,7 @@ date: '2022-07-15'
 title: 'Machine Learning Intern'
 company: 'AreaProbe'
 range: 'May - August 2022'
-url: ''
+url: 'https://areaprobe.com/'
 ---
 
 - Developed Catalyst - an object detection model for pedestrians and vehicles based on YOLOv5 in PyTorch

@@ -10,7 +10,7 @@ tech:
   - CUB
   - FID
   - IS
-showInProjects: true
+showInProjects: false
 ---
 
 Experimented with Generative Adversarial Networks (GAN) for text-to-image synthesis and implemented a lightweight model using deep fusion and text-guided image manipulation to reduce model parameters

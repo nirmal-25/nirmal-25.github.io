@@ -1,6 +1,6 @@
 ---
 title: "Let's Get In Touch"
-buttonText: 'Contact Me'
+buttonText: 'Say Hello'
 ---
 
 Feel free to reach out via mail or LinkedIn!

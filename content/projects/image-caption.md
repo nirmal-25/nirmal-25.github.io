@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-LSTM (RNN) implementation for image captioning on VizWiz-Captions dataset. A GLOVE model is used for word embedding, and a pre-trained Inception V3 model (on ImageNet) is used for transfer learning
+LSTM (RNN) implementation for image captioning on VizWiz-Captions dataset. Used GLOVE model for word embedding and an Inception V3 model pretrained on ImageNet for transfer learning
