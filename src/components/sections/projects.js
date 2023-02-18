@@ -154,10 +154,10 @@ const Projects = ({ data }) => {
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
         View Complete List of Projects
-      </StyledArchiveLink> <br></br>
-      <StyledArchiveLink to="/pensieve" ref={revealArchiveLink}>
+      </StyledArchiveLink> 
+      {/* <StyledArchiveLink to="/pensieve" ref={revealArchiveLink}>
         View Publications
-      </StyledArchiveLink>
+      </StyledArchiveLink> */}
 
       <StyledGrid>
         <TransitionGroup className="projects">
