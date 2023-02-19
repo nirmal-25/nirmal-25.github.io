@@ -1,12 +1,13 @@
 ---
-title: Docker Compose Error
-description: docker-compose version discrepancies
-date: '2019-12-13'
+title: A Combined Wavelet and Variational Mode Decomposition Approach for Denoising Texture Images
+description: "Publisher: Springer"
+date: '2021-03-28'
 draft: false
 slug: '/pensieve/docker-error'
 tags:
   - WordPress
   - Docker
+url: 'https://link.springer.com/chapter/10.1007/978-981-16-1092-9_5'
 ---
 
 ## Problem

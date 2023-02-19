@@ -1,11 +1,12 @@
 ---
-title: WordPress Publishing Error
-description: Trying to create a simple post in WordPress
-date: '2019-12-03'
+title: A Comparative Study between State-of-the-Art Object Detectors for Traffic Light Detection
+description: "Publisher: IEEE"
+date: '2020-04-27'
 draft: false
 slug: '/pensieve/wordpress-publish-error'
 tags:
   - WordPress
+url: 'https://ieeexplore.ieee.org/document/9077813'
 ---
 
 ## Problem

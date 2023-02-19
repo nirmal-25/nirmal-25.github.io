@@ -7,6 +7,7 @@ import { Layout } from '@components';
 import { IconZap } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins, media, Main } from '@styles';
+import { FormattedIcon } from '@components/icons';
 const { colors, fontSizes, fonts } = theme;
 
 const StyledMainContainer = styled(Main)`
@@ -68,6 +69,19 @@ const StyledPost = styled.div`
     }
   }
 `;
+const StyledProjectLinks = styled.div`
+  margin-right: -10px;
+  color: ${colors.lightSlate};
+`;
+const StyledIconLink = styled.a`
+  position: relative;
+  top: -10px;
+  padding: 10px;
+  svg {
+    width: 20px;
+    height: 20px;
+  }
+`;
 const StyledPostHeader = styled.div`
   ${mixins.flexBetween};
   margin-bottom: 30px;
@@ -123,19 +137,18 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Chandrika Deb</title>
-        <link rel="canonical" href="https://chandrikadeb7.github.io/pensieve" />
+        <title>Publications | Nirmal</title>
+        <link rel="canonical" href="https://nirmal-25.github.io/pensieve" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">Pensieve</h1>
+          <h1 className="big-title">Publications</h1>
           <p className="subtitle">
             <a
-              href="https://www.wizardingworld.com/writing-by-jk-rowling/pensieve"
+              href=""
               target="_blank"
               rel="noopener noreferrer">
-              a collection of memories
             </a>
           </p>
         </header>
@@ -145,14 +158,14 @@ const PensievePage = ({ location, data }) => {
             {posts.length > 0 &&
               posts.map(({ node }, i) => {
                 const { frontmatter } = node;
-                const { title, description, slug, date, tags } = frontmatter;
+                const { title, description, slug, date, tags, url } = frontmatter;
                 const d = new Date(date);
 
                 return (
                   <StyledPost key={i} tabIndex="0">
                     <StyledPostInner>
                       <header>
-                        <Link to={slug}>
+                        {/* <Link to={slug}>
                           <StyledPostHeader>
                             <StyledFolder>
                               <IconZap />
@@ -160,17 +173,34 @@ const PensievePage = ({ location, data }) => {
                           </StyledPostHeader>
                           <StyledPostName>{title}</StyledPostName>
                           <StyledPostDescription>{description}</StyledPostDescription>
-                        </Link>
+                        </Link> */}
+                        <StyledPostHeader>
+                          <StyledFolder>
+                            {/* <IconZap /> */}
+                          </StyledFolder>
+                        </StyledPostHeader>
+                        <StyledPostName>{title}</StyledPostName>
+                        <StyledPostDescription>{description}</StyledPostDescription>
+                        <StyledProjectLinks>
+                            {(
+                              <StyledIconLink
+                                href={url}
+                                aria-label="External Link">
+                                <FormattedIcon name="External" />
+                              </StyledIconLink>
+                            )}
+                          </StyledProjectLinks>
                       </header>
                       <footer>
                         <StyledDate>{`${d.toLocaleDateString()}`}</StyledDate>
-                        <StyledTags>
+
+                        {/* <StyledTags>
                           {tags.map((tag, i) => (
                             <li key={i}>
                               <Link to={`/pensieve/tags/${kebabCase(tag)}/`}>#{tag}</Link>
                             </li>
                           ))}
-                        </StyledTags>
+                        </StyledTags> */}
                       </footer>
                     </StyledPostInner>
                   </StyledPost>

@@ -109,14 +109,14 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Chandrika Deb</title>
-        <link rel="canonical" href="https://chandrikadeb7.github.io/archive" />
+        <title>Archive | Nirmal</title>
+        <link rel="canonical" href="https://nirmal-25.github.io/archive" />
       </Helmet>
 
       <StyledMainContainer>
         <header ref={revealTitle}>
           <h1 className="big-title">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <p className="subtitle">List of things I’ve worked on</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
@@ -125,7 +125,7 @@ const ArchivePage = ({ location, data }) => {
               <tr>
                 <th>Year</th>
                 <th>Title</th>
-                <th className="hide-on-mobile">Made at</th>
+                {/* <th className="hide-on-mobile">Made at</th> */}
                 <th className="hide-on-mobile">Built with</th>
                 <th>Link</th>
               </tr>
@@ -140,9 +140,9 @@ const ArchivePage = ({ location, data }) => {
 
                       <td className="title">{title}</td>
 
-                      <td className="company hide-on-mobile">
+                      {/* <td className="company hide-on-mobile">
                         {company ? <span>{company}</span> : <span>—</span>}
-                      </td>
+                      </td> */}
 
                       <td className="tech hide-on-mobile">
                         {tech.length > 0 &&

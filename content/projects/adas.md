@@ -1,6 +1,6 @@
 ---
 date: '2019-01-01'
-title: 'ADAS'
+title: 'Advanced Driver Assistance Systems'
 cover: 'adas.png'
 github: 'https://github.com/nirmal-25/Advanced-Driver-Assistance-Systems-ADAS'
 external: ''
