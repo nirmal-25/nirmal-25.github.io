@@ -181,6 +181,7 @@ const PensievePage = ({ location, data }) => {
                         </StyledPostHeader>
                         <StyledPostName>{title}</StyledPostName>
                         <StyledPostDescription>{description}</StyledPostDescription>
+                        <br></br>
                         <StyledProjectLinks>
                             {(
                               <StyledIconLink
@@ -235,6 +236,7 @@ export const pageQuery = graphql`
             date
             tags
             draft
+            url
           }
           html
         }
