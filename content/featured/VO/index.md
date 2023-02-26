@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Implemented a simplified Visual Odometry (VO) pipeline for monocular images using feature detector-descriptors and evaluated models on on the KITTI benchmark dataset
+Implemented a simplified Visual Odometry (VO) model for monocular images using feature detector-descriptors and evaluated models on on the KITTI benchmark dataset
