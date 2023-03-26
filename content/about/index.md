@@ -28,9 +28,9 @@ I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/fi
 
 Here is a list of the technologies that I'm familiar with! -->
 
-Welcome to my portfolio! I have a primary background and strong academic experience in computer vision and machine learning.
+Welcome to my portfolio! I have a primary background and academic experience in computer vision, machine learning and data science.
 
-I wish to further develop my skills by working closely on industry-focussed projects, and becoming part of a team that helps build meaningful systems using data. Keep scrolling to learn more about me!
+I wish to further develop my skills by working closely on industry-focussed projects, and becoming part of a team that helps build meaningful data-driven systems. Keep scrolling to learn more about me!
 
 <!-- and the one thing where even state-of-the-art models fail essentially boils down to is data. Without clean data, there is simply no learning, and I'm trying to focus more on data pre-processing techniques on one hand while also working closely with ML/DL algorithms as part of my research at Virginia Tech.  -->
 

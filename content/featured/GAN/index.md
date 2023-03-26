@@ -1,6 +1,6 @@
 ---
 date: '2022-03-01'
-title: 'Text-to-Image Generation using GAN'
+title: 'Text-to-Image GANs'
 cover: 'gan.jpg'
 github: 'https://github.com/nirmal-25/Text-to-Image-GAN'
 external: ''
