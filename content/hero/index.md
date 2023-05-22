@@ -9,4 +9,4 @@ I'm a graduate student majoring in computer engineering at [Virginia Tech](https
 
 I did my Bachelor's in Electronics Engineering from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/campus/coimbatore/). 
 
-Currently, I am seeking full-time opportunities in Machine Learning, Data Science and Data Engineering, starting in May 2023. 
+Currently, I am seeking full-time opportunities in Machine Learning, Data Science and Data Engineering.

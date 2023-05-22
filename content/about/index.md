@@ -28,7 +28,7 @@ I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/fi
 
 Here is a list of the technologies that I'm familiar with! -->
 
-Welcome to my portfolio! I have a primary background and academic experience in computer vision, machine learning and data science.
+Welcome to my portfolio! I have an academic background in computer vision, machine learning and data science.
 
 I wish to further develop my skills by working closely on industry-focussed projects, and becoming part of a team that helps build meaningful data-driven systems. Keep scrolling to learn more about me!
 
