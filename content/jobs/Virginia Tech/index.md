@@ -2,7 +2,7 @@
 date: '2021-07-30'
 title: 'Graduate Teaching Assistant'
 company: 'Virginia Tech'
-range: 'August 2021 - Present'
+range: 'August 2021 - May 2023'
 url: 'https://ece.vt.edu/'
 ---
 
