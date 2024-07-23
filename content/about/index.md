@@ -4,11 +4,10 @@ avatar: 'profile_pic.jpg'
 skills:
   - Python
   - SQL
-  - C/C++
-  - MATLAB
   - PyTorch
   - TensorFlow
   - Tableau
+  - Domo
   - OpenCV
   - AWS
   - Docker
@@ -28,7 +27,7 @@ I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/fi
 
 Here is a list of the technologies that I'm familiar with! -->
 
-Welcome to my portfolio! I have an academic background in computer vision, machine learning and data science.
+Welcome to my portfolio! Throughout my academic and professional journey, I've had the opportunity to work with teams of varying sizes on academic research and with startups, which has significantly enhanced my technical and collaboration skills. By leveraging cloud services like AWS, I have successfully developed impactful data solutions, working seamlessly with cross-functional teams.
 
 I wish to further develop my skills by working closely on industry-focussed projects, and becoming part of a team that helps build meaningful data-driven systems. Keep scrolling to learn more about me!
 
